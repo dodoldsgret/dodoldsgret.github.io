@@ -1,0 +1,90 @@
+.next{
+              	background:RGB(58, 88, 152,0.8);
+              	width:600px;
+              	max-width:100%;
+              	text-align:center;
+              }
+         .home{
+
+		width:1000px;
+		max-width:95%;
+		text-align:center;
+position:relative;}
+
+.text5{
+
+font-family:sans-serif;
+			color:white;
+			font-weight:400;
+			font-size:17px;
+			text-align:left;
+			box-sizing:border-box;
+			padding-left:15px;
+			max-width:95%;
+			line-height:29px;
+
+}.allare2{
+	font-family:sans-serif;
+	font-weight:400;
+	font-size:24px;
+	color:white;
+
+}.username{
+width:220px;
+height:35px;
+max-width:95%;
+outline:none;
+font-size:16px;
+padding-left:5px;
+border-radius:5px;
+border:none;
+margin-top:7px;
+
+
+}.px{
+width:220px;
+height:35px;
+max-width:95%;
+outline:none;
+font-size:16px;
+padding-left:5px;
+border-radius:5px;
+border:none;
+margin-top:7px;
+
+
+	}.button{
+		transition:1s;
+outline:none;
+border:none;
+font-family:sans-serif;
+border:none;
+margin-top:10px;
+border-radius:5px;
+background:white;
+min-width:100px;
+height:35px;
+background:none;
+color:white;
+border:2px solid white;
+font-weight:bold;
+
+
+	}.px::placeholder{
+		padding-left:5px;
+		font-family:sans-serif;
+		
+		
+	}.button:hover{
+		background:white;
+		border:2px solid white;
+		color:#000;
+	}.button:focus{
+		background:white;
+		border:2px solid white;
+		color:#000;
+	}.mx{
+
+	}.f4x{
+		margin-left:20px;
+	}
